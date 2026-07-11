@@ -1,7 +1,6 @@
 # Server_Form_Ui
-Addon version 1.20.30.20
-//
-if you make custom button add this code
+- Addon version 1.20.30.20
+- if you make custom button add this code
 "prevent_touch_input":true
 exemple
 ```
