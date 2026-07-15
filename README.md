@@ -10,8 +10,8 @@
 
 A **Minecraft Bedrock** addon that lets you place interactive buttons directly on the gameplay HUD screen using the server‑form overlay technique.  
 
-![](https://github.com/YasserNull/server-form-overlay-pack/raw/main/docs/images/screenshot2.jpg)
-![](https://github.com/YasserNull/server-form-overlay-pack/raw/main/docs/images/screenshot3.jpg)
+![](https://github.com/YasserNull/server-form-overlay/raw/main/docs/images/screenshot2.jpg)
+![](https://github.com/YasserNull/server-form-overlay/raw/main/docs/images/screenshot3.jpg)
 
 
 ## How it works
